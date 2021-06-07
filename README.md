@@ -22,3 +22,4 @@ otro cambio
 
 ### CHANGE
 cp rigth
+todos los derechos reservados
